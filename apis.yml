@@ -1,0 +1,68 @@
+aid: sixfold
+name: Sixfold
+description: >-
+  Sixfold is a New York City-headquartered AI company building purpose-built
+  artificial intelligence for insurance underwriting across Property & Casualty
+  and Life & Health lines. Founded by Alex Schmelkin (CEO, previously
+  co-founder of Unqork), Jane Tran (COO), and Brian Moseley (CTO, previously
+  Head of Developer Experience at American Express), Sixfold processes
+  unstructured submissions, automates risk research, produces appetite fit
+  scores, generates cited case narratives, and applies underwriting guidelines
+  consistently across submissions. The platform classifies risk using industry
+  standards (SIC, NAICS, ISO), supports 40+ P&C and Life & Health business
+  lines, and deploys either standalone or via a flexible API into existing
+  underwriting workbench, CRM, and policy administration systems. Customers
+  include Zurich North America, Guardian, Generali GC&C, Skyward Specialty,
+  AXIS, and Mosaic Insurance, collectively representing roughly $265B in
+  gross written premium. The company raised a $30M Series B in January 2026
+  and operates from offices in New York City and Lloyd's of London. Sixfold
+  is the named provider behind these capabilities and is distinct from
+  Cytora, a separate UK-based insurance AI provider. The platform is sold
+  as enterprise SaaS to insurance carriers; there is no public self-serve
+  developer portal, public API reference, SDKs, or open-source release —
+  API integration is delivered under enterprise engagement.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Insurance
+  - Underwriting
+  - Artificial Intelligence
+  - Insurtech
+  - Property And Casualty
+  - Life And Health
+  - Risk Assessment
+  - Submission Triage
+  - Document Processing
+  - Agentic AI
+  - Enterprise SaaS
+url: https://raw.githubusercontent.com/api-evangelist/sixfold/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.sixfold.ai
+  - type: Product
+    url: https://www.sixfold.ai/product
+  - type: About
+    url: https://www.sixfold.ai/about-us
+  - type: Security
+    url: https://www.sixfold.ai/security
+  - type: ContentHub
+    url: https://www.sixfold.ai/content
+  - type: News
+    url: https://www.sixfold.ai/content
+  - type: Careers
+    url: https://www.sixfold.ai/careers
+  - type: Contact
+    url: https://www.sixfold.ai/contact-us
+  - type: GitHub
+    url: https://github.com/sixfold-ai
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/sixfold-ai
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
