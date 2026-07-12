@@ -43,6 +43,10 @@ modified: '2026-05-25'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: TrustCenter
+    url: security/sixfold-trust-center.yml
+  - type: DomainSecurity
+    url: security/sixfold-domain-security.yml
   - type: Website
     url: https://www.sixfold.ai
   - type: Product
@@ -63,6 +67,8 @@ common:
     url: https://github.com/sixfold-ai
   - type: LinkedIn
     url: https://www.linkedin.com/company/sixfold-ai
+  - url: https://www.sixfold.ai/content
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com

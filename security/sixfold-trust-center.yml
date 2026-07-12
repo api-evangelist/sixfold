@@ -1,0 +1,14 @@
+generated: '2026-07-11'
+method: searched
+probe: true
+source: https://trust.sixfold.ai/
+url: https://trust.sixfold.ai/
+certifications:
+- SOC 2
+- HIPAA
+evidence:
+- source: https://trust.sixfold.ai/
+  keywords:
+  - soc 2
+  - hipaa
+  - trust center
