@@ -1,4 +1,4 @@
-# Sixfold (sixfold)
+# Sixfold
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,34 +66,80 @@
 
 Sixfold is a New York City-headquartered AI company building purpose-built artificial intelligence for insurance underwriting across Property & Casualty and Life & Health lines. Founded by Alex Schmelkin (CEO, previously co-founder of Unqork), Jane Tran (COO), and Brian Moseley (CTO, previously Head of Developer Experience at American Express), Sixfold processes unstructured submissions, automates risk research, produces appetite fit scores, generates cited case narratives, and applies underwriting guidelines consistently across submissions. The platform classifies risk using industry standards (SIC, NAICS, ISO), supports 40+ P&C and Life & Health business lines, and deploys either standalone or via a flexible API into existing underwriting workbench, CRM, and policy administration systems. Customers include Zurich North America, Guardian, Generali GC&C, Skyward Specialty, AXIS, and Mosaic Insurance, collectively representing roughly $265B in gross written premium. The company raised a $30M Series B in January 2026 and operates from offices in New York City and Lloyd's of London. Sixfold is the named provider behind these capabilities and is distinct from Cytora, a separate UK-based insurance AI provider. The platform is sold as enterprise SaaS to insurance carriers; there is no public self-serve developer portal, public API reference, SDKs, or open-source release — API integration is delivered under enterprise engagement.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/sixfold/refs/heads/main/apis.yml)
+**Areas:** Insurance · Underwriting · Artificial Intelligence · Insurtech · Property and Casualty · Life and Health · Risk Assessment · Submission Triage · Document Processing · AI Agents · Enterprise Saas
 
-**Run:** [Capabilities Using Naftiko](https://github.com/naftiko/fleet?utm_source=api-evangelist&utm_medium=readme&utm_campaign=company-api-evangelist&utm_content=repo)
+## Sixfold on APIs.io
 
-## Tags:
+Everything profiled for Sixfold is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/sixfold/](https://apis.io/providers/sixfold/)** — or go straight to one of the APIs or properties below.
 
- - Insurance, Underwriting, Artificial Intelligence, Insurtech, Property And Casualty, Life And Health, Risk Assessment, Submission Triage, Document Processing, Agentic AI, Enterprise SaaS
+### Published properties
 
-## Timestamps
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-- **Created:** 2026-05-25
-- **Modified:** 2026-05-25
+#### Security (2)
 
-## Common Properties
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Sixfold Domain Security](https://apis.io/security/sixfold/sixfold-domain-security/)
+- [Sixfold Trust Center](https://apis.io/security/sixfold/sixfold-trust-center/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.sixfold.ai)
-- [Product](https://www.sixfold.ai/product)
-- [About](https://www.sixfold.ai/about-us)
+- [Blog](https://www.sixfold.ai/content)
 - [Security](https://www.sixfold.ai/security)
-- [ContentHub](https://www.sixfold.ai/content)
-- [News](https://www.sixfold.ai/content)
-- [Careers](https://www.sixfold.ai/careers)
-- [Contact](https://www.sixfold.ai/contact-us)
-- [GitHub](https://github.com/sixfold-ai)
-- [LinkedIn](https://www.linkedin.com/company/sixfold-ai)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 7.9** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 7.9 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 9.0** — Insurance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/sixfold/](https://apis.io/providers/sixfold/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Sixfold: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/sixfold/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
